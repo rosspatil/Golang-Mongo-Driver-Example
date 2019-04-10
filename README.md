@@ -10,4 +10,6 @@ Are you looking to introduce new and featured mongodb driver in your project?
 
 Here is the example I implemented in my project.
 
+I used latest mongo driver :- https://github.com/mongodb/mongo-go-driver
+
 Kindly report issues if you found any.
