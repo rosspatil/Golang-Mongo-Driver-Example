@@ -12,4 +12,4 @@ Here is the example I implemented in my project.
 
 I used latest mongo driver :- https://github.com/mongodb/mongo-go-driver
 
-Kindly report issues if you found any.
+Kindly report issues if you found any. :)
